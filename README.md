@@ -2,7 +2,7 @@
 Active-Record
 
 ## Description:
-Buildinf of the data structures necessary to support link submissions and commenting them.
+Building of the data structures necessary to support link submissions and commenting them.
 
 ### Authors:
 [Asha](https://github.com/Ashah15)
